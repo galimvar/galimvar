@@ -43,6 +43,7 @@ applications React, Node.js, Express et PostgreSQL.
 ## 📌 Projets épinglés
 
 - [Vi’Assist — Application pour les aidants](https://github.com/galimvar/viassist)
+  - [Mes pull requests (18)](https://github.com/galimvar/viassist/pulls?q=is%3Apr+author%3Agalimvar)
 - [La Remise — Gestion des stocks](https://github.com/Ekkrog/Adaremise)
   - [Fonctionnalité de vente (PR #27)](https://github.com/Ekkrog/Adaremise/pull/27)
   - [Suppression d’articles du panier (PR #31)](https://github.com/Ekkrog/Adaremise/pull/31)
