@@ -41,20 +41,16 @@ applications React, Node.js, Express et PostgreSQL.
 </tr></table>
 
 ## 📌 Projets épinglés
-<p>
-<a href="https://github.com/galimvar/Vi'Assist"><img alt="Dépôt Vi'Assist" src="https://github-readme-stats.vercel.app/api/pin/?username=galimvar&repo=Vi'Assist&theme=radical" /></a>
-<a href="https://github.com/galimvar/La%20Remise"><img alt="Dépôt La Remise" src="https://github-readme-stats.vercel.app/api/pin/?username=galimvar&repo=La%20Remise&theme=radical" /></a>
-<a href="https://github.com/galimvar/Pok%C3%A9mon_Java"><img alt="Dépôt Pokémon_Java" src="https://github-readme-stats.vercel.app/api/pin/?username=galimvar&repo=Pok%C3%A9mon_Java&theme=radical" /></a>
-</p>
+
+- [Vi’Assist — Application pour les aidants](https://github.com/galimvar/viassist)
+- [La Remise — Gestion des stocks](https://github.com/Ekkrog/Adaremise)
+- [Pokémon Java — Simulateur de combat](https://github.com/galimvar/pokemon_java)
+
 
 ## 📊 Statistiques GitHub
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=galimvar&show_icons=true&theme=radical)
+
 
 <table><tr>
-<td valign="top">
-<h3>💻 Langages les plus utilisés</h3>
-<img alt="Langages les plus utilisés" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galimvar&layout=compact&theme=radical" />
-</td>
 <td valign="top">
 <h3>🔥 Série de contributions</h3>
 <img alt="Série de contributions" src="https://streak-stats.demolab.com?user=galimvar&theme=radical&hide_border=true" />
